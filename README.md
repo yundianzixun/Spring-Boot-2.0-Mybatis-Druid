@@ -1,6 +1,6 @@
 # 简介
 
-该项目主要利用Spring boot2.0 + Mybatis +Druid 实现监控数据库访问性能。
+该项目主要利用Spring boot2.X + Mybatis +Druid 实现监控数据库访问性能。
 *   Druid是一个非常优秀的数据库连接池。在功能、性能、扩展性方面，都超过其他数据库连接池，包括DBCP、C3P0、BoneCP、Proxool、JBoss DataSource。
 *   Druid已经在阿里巴巴部署了超过600个应用，经过一年多生产环境大规模部署的严苛考验。
 *   Druid是一个JDBC组件，它包括三个部分：
